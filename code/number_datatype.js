@@ -16,7 +16,7 @@ var c= a + b;
 console.log(c);
 
 //var x="10"
-//var x=Number("10abc");          // NaN- Not a Number
+//var x=Number("10abc");          // NaN- Not a Number.
 // var x=parseInt("10abc");       // output=100    parseInt takes if string starts with number till character come
 // //var x=parseInt("sd10abc");   //NaN-Not a Number
 // var y= x*x;
@@ -26,3 +26,4 @@ console.log(c);
 //var x=Number.MAX_VALUE;               //Only maximum number
 // var y=Number.MIN_SAFE_INTEGER;
 // console.log(x==y);
+//es6 javascript chatgpt
